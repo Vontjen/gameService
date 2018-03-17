@@ -12,5 +12,6 @@
             <property name="javax.persistence.schema-generation.scripts.create-target" value="gameServiceCreate.ddl"/>
             <property name="javax.persistence.schema-generation.scripts.drop-target" value="gameServiceDrop.ddl"/>
         </properties>
+
     </persistence-unit>
 </persistence>
